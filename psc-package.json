@@ -3,7 +3,7 @@
     "source": "https://github.com/btford/package-sets.git",
     "set": "psc-0.12.0-btford",
     "depends": [
-        "eff",
+        "effect",
         "prelude",
         "unsafe-coerce"
     ]
